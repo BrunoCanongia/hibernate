@@ -1,6 +1,6 @@
-package br.com.brunoid.controllers;
+package br.com.brunoid.hybernate_tutorial.controllers;
 
-import br.com.brunoid.models.Pessoa;
+import br.com.brunoid.hybernate_tutorial.models.Pessoa;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;

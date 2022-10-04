@@ -1,6 +1,6 @@
 package br.com.brunoid.hybernate_tutorial;
 
-import br.com.brunoid.controllers.PessoaController;
+import br.com.brunoid.hybernate_tutorial.controllers.PessoaController;
 
 
 public class Hybernate_tutorial {

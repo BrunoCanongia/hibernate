@@ -1,4 +1,4 @@
-package br.com.brunoid.models;
+package br.com.brunoid.hybernate_tutorial.models;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
